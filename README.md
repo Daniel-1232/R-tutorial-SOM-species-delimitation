@@ -1,2 +1,2 @@
-# R-tutorial-SOM-species-delimitation
-R tutorial: Integrative species delimitation using SOM (Self-Organizing Maps)
+# R-tutorial: SOM-species-delimitation
+Integrative species delimitation using SOM (Self-Organizing Maps) in R
